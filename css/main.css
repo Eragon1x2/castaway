@@ -837,6 +837,7 @@ body {
 .subscribe div {
 	display: block;
 	text-align: center;
+	overflow: hidden;
 }
 .subscribe div p {
 	display: block;
