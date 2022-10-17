@@ -832,12 +832,10 @@ body {
 	height: 350px;
 	margin-top: 300px;
 	display: block;
-	align-items: center;
 	margin-top: 100px;
 }
 .subscribe div {
 	display: block;
-	align-items: center;
 	text-align: center;
 }
 .subscribe div p {
