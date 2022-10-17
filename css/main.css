@@ -850,6 +850,7 @@ body {
 .subscribe div h3 {
 	color: #FFFFFF;
 	font-size: 25px;
+	width: 200px;
 	margin-left: 0;
 }
 .subscribe form {
